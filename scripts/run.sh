@@ -2,3 +2,4 @@
 set -eu
 
 echo "skills"
+# clarify the control flow
